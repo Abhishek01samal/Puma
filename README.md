@@ -9,18 +9,10 @@ This project is a front-end website inspired by Puma's visual identity and sport
 The website focuses on:
 
 * Modern and responsive UI design
-* Sports and lifestyle brandingasbkjbcb
+* Sports and lifestyle branding
 * Bold visual presentation
 * Performance-oriented design
-* Interactive media and animationszbbib zkshio
-* vjiohjfojbj
-* sj pj
-* sV
-* SD
-* vl; j
-* b 'o'jopjopiohioh hio h
-*  uiohfiu  oj
-*  soiiulh ijposfi
+* Interactive media and animations
 * Clean and immersive user experience
 
 ## Features
