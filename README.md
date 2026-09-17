@@ -12,7 +12,13 @@ The website focuses on:
 * Sports and lifestyle brandingasbkjbcb
 * Bold visual presentation
 * Performance-oriented design
-* Interactive media and animations
+* Interactive media and animationszbbib z
+* sV
+* SD
+* vl; j
+* b 'o'jopjopiohioh hio h
+*  uiohfiu  oj
+*  soiiulh ijposfi
 * Clean and immersive user experience
 
 ## Features
