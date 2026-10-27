@@ -58,7 +58,7 @@ https://puma1asa.netlify.app/
 
 ## Purpose
 
-This project was created as a web development and UI design project to explore modern sports-brand websites, visual storytelling, animations, and responsive front-end design and i will it .
+This project was created as a web development and UI design project to explore modern sports-brand websites, visual storytelling, animations, and responsive front-end design a  it .
 
 ## Author
 
